@@ -1,0 +1,8 @@
+gymnasium == 0.29.1
+numpy
+tqdm == 4.66.1
+torch
+matplotlib
+gymnasium[box2d]
+opencv-python == 4.8.0.74
+stable-baselines3[extra]
