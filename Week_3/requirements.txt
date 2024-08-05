@@ -1,0 +1,7 @@
+swig
+gymnasium == 0.29.1
+torch == 2.2.2
+numpy == 1.21.6
+tqdm == 4.66.1
+matplotlib
+mujoco == 3.2.0
